@@ -1,6 +1,6 @@
 # Damage Prediction
 
-The objective is predict the isurance cost or damage cost based on a number of categorial and numeric data. This github repository provides python training and testing code. It also provides methods for processing different types of data for machine learning modelling.
+The objective is predict the insurance cost or damage cost based on a number of categorical and numeric data. This GitHub repository provides python training and testing code. It also provides methods for processing different types of data for machine learning modelling.
 
 ## Installation
 
